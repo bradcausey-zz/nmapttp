@@ -8,7 +8,7 @@ from libnmap.parser import NmapParser
 import sys
 
 #bobjones@coursesoffire.com
-#Usage - nmapttp.py nmapscan.xml
+#Usage - python3 nmapttp.py nmapscan.xml
 #Requires chromedriver to be in the same folder (or sys path) as the script.
 #https://chromedriver.storage.googleapis.com/83.0.4103.39/chromedriver_win32.zip
 
